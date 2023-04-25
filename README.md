@@ -98,7 +98,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks (ICML 2021) [[paper](https://arxiv.org/pdf/2006.12557)] [[code](https://github.com/aks2203/poisoning-benchmark)]
 + Neural Tangent Generalization Attacks (ICML 2021) [[paper](https://proceedings.mlr.press/v139/yuan21b.html)]
 + SPECTRE: Defending Against Backdoor Attacks Using Robust Covariance Estimation (ICML 2021) [[paper](https://proceedings.mlr.press/v139/hayase21a.html)]
-+ Adversarial Neuron Pruning Purifies Backdoored Deep Models (NeurIPS 2021) [[paper] (https://proceedings.neurips.cc/paper_files/paper/2021/file/8cbe9ce23f42628c98f80fa0fac8b19a-Paper.pdf)] [[code] (https://github.com/csdongxian/ANP_backdoor)]
++ Adversarial Neuron Pruning Purifies Backdoored Deep Models (NeurIPS 2021) [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/8cbe9ce23f42628c98f80fa0fac8b19a-Paper.pdf)] [[code](https://github.com/csdongxian/ANP_backdoor)]
 + Adversarial Examples Make Strong Poisons (NeurIPS 2021) [[paper](https://proceedings.neurips.cc/paper/2021/hash/fe87435d12ef7642af67d9bc82a8b3cd-Abstract.html)]
 + Anti-Backdoor Learning: Training Clean Models on Poisoned Data (NeurIPS 2021) [[paper](https://proceedings.neurips.cc/paper/2021/hash/7d38b1e9bd793d3f45e0e212a729a93c-Abstract.html)] [[code](https://github.com/bboylyg/ABL)]
 + Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective (ICCV 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zeng_Rethinking_the_Backdoor_Attacks_Triggers_A_Frequency_Perspective_ICCV_2021_paper.html)] [[code](https://github.com/YiZeng623/frequency-backdoor)]
