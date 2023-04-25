@@ -53,10 +53,12 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Distilling Cognitive Backdoor Patterns within an Image (ICLR 2023) [[paper](https://openreview.net/forum?id=S3D9NLzjnQ5)] [[code](https://github.com/HanxunH/CognitiveDistillation)]
 + FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning (ICLR 2023) [[paper](https://openreview.net/forum?id=Xo2E217_M4n)] [[code](https://github.com/KaiyuanZh/FLIP)]
 + UNICORN: A Unified Backdoor Trigger Inversion Framework (ICLR 2023) [[paper](https://openreview.net/forum?id=Mj7K4lglGyj)] [[code](https://github.com/RU-System-Software-and-Security/UNICORN)]
-+ Progressive Backdoor Erasing via connecting Backdoor and Adversarial Attacks (CVPR 2023) [[paper]([https://arxiv.org/abs/2303.15180](https://arxiv.org/abs/2202.06312))]
++ Progressive Backdoor Erasing via connecting Backdoor and Adversarial Attacks (CVPR 2023) [[paper](https://arxiv.org/abs/2202.06312)]
 + The Dark Side of Dynamic Routing Neural Networks: Towards Efficiency Backdoor Injection (CVPR 2023)
 + Color Backdoor: A Robust Poisoning Attack in Color Space (CVPR 2023)
 + You Are Catching My Attention: Are Vision Transformers Bad Learners under Backdoor Attacks? (CVPR 2023)
++ How to Backdoor Diffusion Models? (CVPR 2023) [[paper](https://arxiv.org/abs/2212.05400)] [[code](https://github.com/ibm/baddiffusion)]
++ Backdoor Cleansing with Unlabeled Data (CVPR 2023) [[paper](https://arxiv.org/abs/2211.12044)] [[code](https://github.com/luluppang/bcu)]
 + Architectural Backdoors in Neural Networks (CVPR 2023) [[paper](https://arxiv.org/abs/2206.07840)] [[code](https://github.com/QuangNguyen2609/ARCHITECTURAL-BACKDOORS-IN-NEURAL-NETWORKS)]
 + Detecting Backdoors in Pre-trained Encoders (CVPR 2023) [[paper](https://arxiv.org/abs/2303.15180)] [[code](https://github.com/giantseaweed/decree)]
 + MEDIC: Remove Model Backdoors via Importance Driven Cloning (CVPR 2023) [[paper](https://openreview.net/forum?id=qHcR93949op)] [[code](https://openreview.net/attachment?id=qHcR93949op&name=supplementary_material)]
