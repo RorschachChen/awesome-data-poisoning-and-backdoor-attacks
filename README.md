@@ -53,6 +53,7 @@ A curated list of papers & resources linked to data poisoning, backdoor attacks 
 + Distilling Cognitive Backdoor Patterns within an Image (ICLR 2023) [[paper](https://openreview.net/forum?id=S3D9NLzjnQ5)] [[code](https://github.com/HanxunH/CognitiveDistillation)]
 + FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning (ICLR 2023) [[paper](https://openreview.net/forum?id=Xo2E217_M4n)] [[code](https://github.com/KaiyuanZh/FLIP)]
 + UNICORN: A Unified Backdoor Trigger Inversion Framework (ICLR 2023) [[paper](https://openreview.net/forum?id=Mj7K4lglGyj)] [[code](https://github.com/RU-System-Software-and-Security/UNICORN)]
++ Detecting Backdoors in Pre-trained Encoders [[paper](https://arxiv.org/abs/2303.15180)] [[code](https://github.com/giantseaweed/decree)]
 + MEDIC: Remove Model Backdoors via Importance Driven Cloning (CVPR 2023) [[paper](https://openreview.net/forum?id=qHcR93949op)] [[code](https://openreview.net/attachment?id=qHcR93949op&name=supplementary_material)]
 + Backdoor Defense via Deconfounded Representation Learning (CVPR 2023) [[paper](https://arxiv.org/abs/2303.06818)] [[code](https://github.com/zaixizhang/CBD)]
 + Turning Strengths into Weaknesses: A Certified Robustness Inspired Attack Framework against Graph Neural Networks (CVPR 2023) [[paper](https://arxiv.org/abs/2303.06199)]
